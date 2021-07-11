@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107152741393",
+    "project_id": "teams-3e321",
+    "storage_bucket": "teams-3e321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107152741393:android:6c04c813e9c0d85cf78db0",
+        "android_client_info": {
+          "package_name": "com.example.agora_video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107152741393-su3htq8n4dcstcd79rsrt7gl9b73rua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agora_video_call",
+            "certificate_hash": "40befde8e4bbe751953964cdf1a717c722d797a2"
+          }
+        },
+        {
+          "client_id": "107152741393-5h625o384s48js8i5gpe7pn4opukpghv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdYuJJIqbEVIfVb5DGmq1uKcKsCi5Ua4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107152741393-5h625o384s48js8i5gpe7pn4opukpghv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
